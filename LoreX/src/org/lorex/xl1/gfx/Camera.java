@@ -1,7 +1,7 @@
 package org.lorex.xl1.gfx;
 
-import org.lorex.interfaces.ControlCenter;
 import org.lorex.xl1.entity.movable.MovableEntity;
+import org.lorex.xl1.interfaces.ControlCenter;
 
 public class Camera {
 	
