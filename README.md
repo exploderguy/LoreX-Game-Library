@@ -4,7 +4,11 @@ A game library targeted for beginner Java game developers who want to create 2D 
 DISCLAIMER: This game library is open for any people to use. It is strictly designed to create 2D games in Java. These games are high FPS
   and CPU-Intensive. LoreX does not support ANY 3-Dimensional platforms. All of its methods (functions) aid only in 2D java development. 
   You may request as many pull requests as you would like, as long as they offer strict benefit to the library and its userbase.
-  
+
+SOUND LIBRARY:
+I use Paulscode's Sound Library. In order to use it, you must use the JAR version. Don't use Maven.
+http://www.paulscode.com/
+
 FEATURES:
   LoreX features many options for 2D Java development. It has mathematical functions that aid in coordinate-intensive frameworks, as well
   as a class that takes PNG images from file and turns them into a BufferedImage object.
