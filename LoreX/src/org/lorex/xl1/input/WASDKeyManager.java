@@ -53,7 +53,8 @@ public class WASDKeyManager implements KeyListener {
 	@Override
 	public void keyTyped(KeyEvent e) {
 		
-		
+		//Useless Method! Good god, Oracle!
+		//You take up my class space!
 		
 	}
 	
